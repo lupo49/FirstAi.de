@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<style name="MenuUnselected">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">20px</item>
+		<item name="android:background">#AA000000</item>
+		<item name="android:textColor">#ffffffff</item>
+		<item name="android:gravity">center</item>
+		<item name="android:paddingLeft">20px</item>
+		<item name="android:paddingRight">20px</item>
+		<item name="android:layout_gravity">center</item>
+		<item name="android:layout_margin">10px</item>
+	</style>
+</resources>

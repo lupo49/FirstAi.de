@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firstai</string>
+    <string name="Informationsleiste">Erste Hilfe 3.0</string>
+    
+    <string name="HaftungHinweise">Haftung + Hinweise</string>
+    <string name="NotrufeWeltweit">- Notrufe weltweit -</string>
+    <string name="Allgemeines">Allgemeines</string>
+    <string name="AllergischeReaktion">Allergische Reaktion</string>
+    <string name="underline">________________________</string>
+</resources>
