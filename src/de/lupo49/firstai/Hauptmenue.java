@@ -1,16 +1,35 @@
 package de.lupo49.firstai;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.MenuItem;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.TextView;
 
 public class Hauptmenue extends Activity {
-    /** Called when the activity is first created. */
+    
+	private Intent menuepunktAusgewaehlt;
+	
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         
+        TextView menuepunkt = (TextView)findViewById(R.id.HaftungHinweise);
+        menuepunktAusgewaehlt = new Intent(this, Unterpunkt.class);
+        
+        
+        menuepunkt.setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				menuepunktAusgewaehlt.putExtra("quelle", v.getId());
+				Log.i("Hauptmenue", String.valueOf(v.getId()));
+				startActivity(menuepunktAusgewaehlt);
+			}
+		});
         
     }
     
