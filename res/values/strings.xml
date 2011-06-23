@@ -22,4 +22,191 @@
 
     <string name="Atemstillstand">Atemstillstand</string>
     <string name="AtemstillstandContent">Keine Geräusche oder Atembewegungen, auffallende Hautverfärbung.\n\n1. Notruf absetzen.\n2. Betroffenen auf Rücken legen.\n3. Entfernen von Fremdkörpern aus Mund und Rachen. Überstrecken des Kopfes in den Nacken.\n4. Nasenflügel zusammendrücken, damit Nase geschlossen ist.\n5. Tief einatmen und Mund auf Mund des Betroffenen aufsetzen, sodass keine Luft entweichen kann.\n6. Langsam und vollständig ausatmen.\n7. Falls ohne Erfolg: Atemspende fortsetzen bis Notarzt eintrifft.</string>
+    
+    <!-- gleich mit "Beatmung" -->
+    <string name="AtmungPruefen">Atmung prüfen</string>
+    <string name="AtmungPruefenContent">1. Atemgeräusche prüfen.\n2. Atmung am Oberbauch feststellen (Hand auflegen).\n3. Atmung an Nase/Mund fühlbar.</string>
+    
+    <string name="Augenverletzung">Augenverletzung</string>
+    <string name="AugenverletzungContent">1. Fremdkörper im Auge belassen, nicht entfernen.\n2. Augen nicht bewegen, um weitere Verletzungen zu vermeiden. Auge nicht berühren.\n3. Bei Augen-Blutung mit Kompresse oder Verbandtuch bedecken.\n4. Auge mit kalter Auflage kühlen (verringert Schwellung, Blutung stoppt schneller).\n5. Notruf absetzen oder selbst zum Krankenhaus fahren.</string>
+    
+    <string name="Augenveraetzung">Augenverätzung</string>
+    <string name="AugenveraetzungContent">1. Notarzt rufen, auf Ätz-Substanz hinweisen.\n2. Auge sofort mit viel Wasser spülen. Gesundes Auge während Spülung abdecken.\n3. Wasserstrahl vom inneren Augenwinkel zum äußeren Augenwinkel. Ca. 20 min reinigen.\n4. Beide Augen des Betroffenen schließen und mit angefeuchtetem Tuch verbinden.\n5. Zustand kontrollieren, bis Notarzt eintrifft.</string>
+    
+    <!-- gleich mit "Atmung pruefen" -->
+    <string name="Beatmung">Beatmung</string>
+    <string name="BeatmungContent">1. Atemgeräusche prüfen.\n2. Atmung am Oberbauch feststellen (Hand auflegen).\n3. Atmung an Nase/Mund fühlbar.</string>
+    
+    <string name="BewusstlosigkeitMitAtmung">Bewusstlosigkeit mit Atmung</string>
+    <string name="BewusstlosigkeitMitAtmungContent">Keine Reaktion auf Ansprache und Schütteln. Atmung vorhanden.\n\n1. Falls Menschen in der Nähe sind, bitten Sie diese um Mithilfe.\n2. Stabile Seitenlage einnehmen. Mund öffnen und Kopf so positionieren, dass Erbrochenes ablaufen kann.\n3. Notruf absetzen.</string>
+    
+    <!-- FIXME Inhalt fehlt-->
+    <string name="BewusstlosigkeitOhneAtmung">Bewusstlosigkeit ohne Atmung</string>
+    <string name="BewusstlosigkeitOhneAtmungContent">Keine Reaktion vorhanden, Atmung nicht feststellbar.\n\nWiederbelebung einleiten:</string>
+    
+    <string name="BlutungLeicht">Blutung leicht</string>
+    <string name="BlutungLeichtContent">Ziel: Stoppen der Blutung.\n\n1. Wunde nicht berühren (Infektionsgefahr).\n2. Wunde nicht mit Puder, Salben, Sprays behandeln.\n3. Wundversorgung mittels keimfreier Wundauflage und Befestigungsmaterial (Pflaster, Binde).\n4. Bei kleiner Blutung reicht meist ein Pflasterstreifen.\n5. Bei großflächiger Verletzung Wundauflage und Verbandtuch benutzen. Verband nicht zu fest binden, da Stauung zu vermehrter Blutung führt.\n6. Hinweis: Tollwut-Wunden mit Seifenlösung auswaschen.</string>
+    
+    <string name="BlutungSchwer">Blutung schwer</string>
+    <string name="BlutungSchwerContent">Spritzendes, in Stößen austretendes Blut. Gefahr: Schock durch Blutverlust, Infektionen, Tod. Ziel: Stoppen der Blutung.\n\n1. Kleidung entfernen (notfalls aufschneiden), Wunde freilegen.\n2. Binde oder notfalls Kleidungsstück mit Druck um Wunde wickeln.\n3. Für mind. 10 min Druck auf Wunde ausüben.\n4. Falls Binde mit Blut durchnässt, nicht die alte Binde entfernen! Eine andere Binde/Kleidungsstück darüber binden.\n5. Verletztes Glied (sofern nicht gebrochen) über Höhe des Herzens lagern, damit sich Blutung verlangsamt. Wenn möglich Betroffenen hinlegen.\n6. Falls Blutung nicht stoppt, Druck auf Wunde beibehalten und zusätzlich Druckpunkte über der Wunde setzen: Bei Blutung am Unterarm den Oberarm abdrücken (Ader auf Arm-Innenseite mittig zwischen Ellbogen und Achselhöhle, mit Fingern abdrücken). Bei Blutung des Beins, Druckpunkt in Leiste setzen (Ader in Leistenbeuge, wo Arterie über Beckenknochen verläuft, mit Handballen abdrücken).\n7. Sofort Notarzt anfordern.\n8. Sobald Blutung unter Kontrolle: Schockbekämpfung einleiten.</string>
+    
+    <!-- gleich mit "Ueberzuckerung" -->
+    <string name="DiabetischesKoma">Diabetisches Koma</string>
+    <string name="DiabetischesKomaContent">Blutzuckerspiegel zu hoch bzw. Insulinmangel.\nSymptome: Durst, häufiges Wasserlassen, Übelkeit, Erbrechen. Atem riecht nach Obst.\n\n1. Notruf absetzen.\n2. Unterstützung bei der Insulingabe, sofern sichergestellt, dass Diabetiker.\n3. Stabile Seitenlage. (Keine weiteren Möglichkeiten für den Ersthelfer.)\n4. Zustand des Betroffenen kontrollieren bis Notarzt eintrifft.</string>
+    
+    <string name="Durchfall">Durchfall</string>
+    <string name="DurchfallContent">Nahrungsmittel-Unverträglichkeit, Darm-Entzündung oder Erkrankung. Stuhlgang wässrig, schleimig oder blutig.\n\n1. Gefahr für Kreislauf aufgrund Flüssigkeits- und Salz-Verlustes!\n2. Flüssigkeit zuführen (Tee, Wasser).\n3. Bei starken Beschwerden Arzt aufsuchen oder Notruf absetzen.</string>
+    
+    <string name="Eisunfall">Eisunfall</string>
+    <string name="EisunfallContent">Eigenschutz beachten! Gefahr: Ertrinken, Unterkühlung.\n\n1. Rettung erfolgt via Leiter, Brett, Stange. Gewicht muss großflächig verteilt werden.\n2. Andere Personen um Mithilfe auffordern. Notruf absetzen lassen.\n3. Auf Bauch (möglichst angeseilt) mit Hilfsmittel vorsichtig zur Einbruchstelle robben.\n4. Verunglücktem auf Distanz das Hilfsmittel reichen (nicht die Hand!) und herausziehen.\n5. Rückwärts bis zum Ufer zurückrobben.\n6. Erste-Hilfe-Maßnahmen.\n7. Eigenrettung möglich: Bei festem Eis Gewicht auf Eis verteilen und sich selbst herausziehen. Flach auf Bauch zum Ufer zurückrobben. Bei brüchigem Eis versuchen Eis bis zum Ufer Stück für Stück abzubrechen.</string>
+    
+    <string name="Elektrounfall">Elektrounfall</string>
+    <string name="ElektrounfallContent">Zuerst Stromzuleitung unterbrechen!\n\nGefahr: Bewusstlosigkeit, Atemstillstand.</string>
+    
+    <string name="EpileptischerAnfall">Epileptischer Anfall</string>
+    <string name="EpileptischerAnfallContent">Starrer Körper, geballte Fäuste, gepresster Kiefer, Zucken in Beinen oder Gesicht. Rollende Augen. Speichelfluss. Bewusstlosigkeit möglich.\n\n1. Betroffenen nicht halten oder in Bewegung einschränken.\n2. Betroffenen auf weiche Unterlage (Kissen) legen, Objekte in direkter Nähe entfernen, somit Selbstverletzungen vorbeugen.\n3. Beruhigend zum Betroffenen reden. Kleidung lockern, für Atemfreiheit sorgen.\n4. Falls Betroffener erbricht, Kopf zur Seite drehen, damit Erbrochenes abfließen kann.\n5. Atemwege freihalten. Gefahr, dass Zunge verschluckt wird.\n6. Stabile Seitenlage + Notruf absetzen. Weiterhin Zustand des Betroffenen kontrollieren.\n7. Andere Leute auf Distanz halten.</string>
+    
+    <string name="Erbrechen">Erbrechen</string>
+    <string name="ErbrechenContent">Folge von Übelkeit. Magen befreit sich. Ursachen: Infektion, Vergiftung, Geschwür, Medikamente, falsche Nahrung, Schwangerschaft.\n\n1. Gefahr für Kreislauf aufgrund Flüssigkeits- und Salz-Verlustes!\n2. Flüssigkeit zuführen (Tee, Wasser).\n3. Bei starken Beschwerden, blutigem oder anhaltendem Erbrechen Arzt aufsuchen.</string>
+    
+    <string name="ErfrierungLeicht">Erfrierung (leicht)</string>
+    <string name="ErfrierungLeichtContent">Blässe, Schwellen. Gefahr für Blutzufuhr.\n\n1. Warmen Bereich aufsuchen.\n2. Kälte beseitigen. Nasse Kleidung entfernen, abtrocknen.\n3. Aufwärmen mit lauwarmem Wasser und Körperwärme des Helfers.\n4. Warmes Getränk (Tee) geben. Keinen Alkohol!</string>
+    
+    <string name="ErfrierungStark">Erfrierung (stark)</string>
+    <string name="ErfrierungStarkContent">Kalte harte Haut, grau-weiß, Blasenbildung, Gewebe stirbt ab. Gefahr für Blutzufuhr!\n\n1. Warmen Bereich aufsuchen.\n2. Wunden versorgen/abdecken.\n3. Zuckerhaltiges Getränk verabreichen.\n4. Nicht warmreiben!\n5. Notruf absetzen.</string>
+    
+    <!-- gleich mit "Verschlucken" -->
+    <string name="Ersticken">Ersticken</string>
+    <string name="ErstickenContent">Unzureichende Sauerstoffversorgung. Luftröhre verschlossen. Gefahr: Atemstillstand.\nSymptome: Pfeifendes Atemgeräusch, Hustenreiz, Atemnot, Hautverfärbung.\n\n1. Sofort handeln! Betroffenen kräftig Husten lassen.\n2. Mit flacher Hand auf Rücken zwischen Schulterblättern kräftig klopfen (Babys dabei auf Unterarm legen, Kopf nach unten halten).\n3. Wenn ohne Erfolg: Hinter Person stellen, Arme um Taille legen, leicht nach vorne beugen.\n4. Hand zur Faust ballen, auf Magen-Höhe des Betroffenen positionieren und mit anderer Hand umfassen.\n5. Beide Hände in Umklammerung mit hartem Stoß in Richtung Magen nach oben/innen ziehen (als ob Sie die Person hochheben wollen).\n6. Bis zu 5-mal wiederholen! Luftwege sollten vom Objekt befreit sein.\n7. Notruf absetzen.\n8. Falls Maßnahme nicht erfolgreich, trotzdem fortsetzen, bis Notarzt eintrifft.</string>
+    
+    <string name="Ertrinken">Ertrinken</string>
+    <string name="ErtrinkenContent">1. Notruf absetzen. Personen in der Nähe um Hilfe bitten.\n2. Aus Wasser retten!\n3. Wenn Atmung vorhanden: Stabile Seitenlage. Betroffenen warm halten (Decke). Zustand kontrollieren, bis der Notarzt eintrifft.\n4. Bei Atemstillstand sofort mit Wiederbelebung beginnen! (Ausfließenlassen von Wasser aus Lungen ist nutzlos.)</string>
+    
+    <string name="Geburt">Geburt</string>
+    <string name="GeburtContent">Abgang von Fruchtwasser. Presswehen treten ein. Unerwartete Geburt.\n\n1. Intimsphäre wahren und Ruhe bewahren! - Notruf absetzen.\n2. Die Schwangere breitbeinig, mit freigemachtem Unterkörper auf sterile Unterlage hinsetzen.\n3. Kniee anwinkeln. Beine etwas heranziehen. Becken leicht erhöht lagern. - Die Geburt ist ein natürlicher Prozess und läuft häufig ohne Komplikationen ab.\n4. Schwangere beruhigen und auf Atmung konzentrieren lassen: Durch Nase einatmen und Mund ausatmen (normales Atemtempo).\n5. Pressrhythmus: Tief Luft holen, anhalten und pressen. Sobald Kopf des Babys erscheint, mit beiden Händen unterstützend zugreifen.\n6. Nach der Geburt: Neugeborenes schräg nach unten hängen, um Fruchtwasser aus Atemwegen zu befreien. (Evtl. mit dem Mund das Fruchtwasser aus der Nase des Babys absaugen.) Kind muss atmen und schreien!\n7. Nabelschnur 30 cm vom Kind entfernt abbinden (kann auch im Krankenhaus erfolgen). Scheide der Mutter steril abdecken.\n8. Das Baby abtrocknen und warm halten. Uhrzeit notieren und zum Krankenhaus fahren.</string>
+    
+    <string name="GefahrenzoneRetten">Gefahrenzone (Retten)</string>
+    <string name="GefahrenzoneRettenContent">1. Grifftechnik: Arm des Verletzten vor dessen Brust, hinter den Verletzten stellen.\n2. Mit beiden Händen den angewinkelten Arm des Verletzten durch dessen Achseln greifen.\n3. Person in Sicherheit bringen.</string>
+        
+    <string name="Gehirnerschuetterung">Gehirnerschütterung</string>
+    <string name="GehirnerschuetterungContent">Kopfschmerz, Übelkeit, Erbrechen. Sehstörung. Bewusstlosigkeit kann eintreten.\n\n1. Betroffenen hinlegen.\n2. Notruf absetzen.\n\n*Bei Blutung am Kopf:\n1. Betroffenen hinlegen, Kopf erhöht lagern (Kissen).\n2. Wundversorgung durchführen (Kopf-Verband anlegen).\n3. Notruf absetzen.</string>
+        
+    <!-- Gleich mit "Wiederbelebung" -->
+    <string name="Herzdruckmassage">Herzdruckmassage</string>
+    <string name="HerzdruckmassageContent">-- Herzdruckmassage --\n1. Betroffenen in Rückenlage. Daneben hinknien.\n2. Brustkorb freimachen.\n3. In der Mitte des Brustkorbs (kurz über Brustbein) einen Handballen platzieren.\n4. Anderen Handballen auf Handrücken der bereits platzierten Hand.\n5. Arme, Ellbogen durchdrücken.\n6. Brustkorb des Betroffenen 5 cm senkrecht eindrücken (aus dem Oberkörper arbeiten) und wieder entlasten.\n7. 30-mal in Folge kurz und kräftig drücken.\n\n-- Beatmung --\n1. Entfernen von Fremdkörpern aus Mund und Rachen. Überstrecken des Kopfes in den Nacken.\n2. Nasenflügel zusammendrücken, damit Nase geschlossen ist.\n3. Tief einatmen und Mund auf Mund des Betroffenen aufsetzen, sodass keine Luft entweichen kann.\n4. Zweimal Mund zu Mund beatmen (langsam, vollständig ausatmen).\n5. Danach wieder Herzdruckmassage.\n\n*Herzdruckmassage + Beatmung fortführen bis Rettungsdienst kommt.</string>
+        
+     <!-- FIXME Inhalt fehlt -->
+    <string name="Herzinfarkt">Herzinfarkt</string>
+    <string name="HerzinfarktContent">Schwere mehr als 5 min anhaltende Schmerzen + Druck im Brustkorb, besonders in Arme/Schultern ausstrahlend. Angstgefühl, Blässe, kalter Schweiß. Eventuell Übelkeit, Kurzatmigkeit.\n\n1. Notruf absetzen! Hinweis auf vermuteten Herzinfarkt.\n2. Oberkörper erhöht lagern. Enge Kleidung lockern. Keine Medikamente oder Getränke geben.\n3. Beruhigend auf Betroffenen einreden.\n4. Bewusstsein und Atmung kontrollieren.\n5. Dem Betroffenen Aspirin verabreichen, falls verfügbar.\n6. Bei Bewusstlosigkeit die Wiederbelebung einleiten:</string>
+    
+    <!-- gleich mit "Ueberhitzung" -->    
+    <string name="Hitzschlag">Hitzschlag</string>
+    <string name="HitzschlagContent">Durst, Schwäche, Desorientiertheit, Bewusstseinsstörung, starker Schweiß, heiße Haut.\n\n1. Notruf absetzen.\n2. Kühlen, schattigen Platz aufsuchen (Raum mit Klimaanlage sehr geeignet).\n3. Betroffenen hinlegen, Beine hochlagern. Kleidung lockern.\n4. Haut mit Wasser kühlen oder kalte Handtücher auflegen.\n5. Viel Wasser oder Säfte trinken.</string>
+        
+    <string name="Insektenstich">Insektenstich</string>
+    <string name="InsektenstichContent">Schwellungen, Hautausschlag, brennendes Gefühl, Schwäche, Atemnot, Kreislaufprobleme, Herzrasen.\n\n1. Stachel vorsichtig entfernen (mit Pinzette). Nicht auf Stachel drücken, könnte noch mehr Gift injizieren.\n2. Kühlung der betroffenen Stelle (kalte Kompresse).\n3. Betroffene Stelle niedriger als Herz-Höhe halten, damit Gift langsamer zirkuliert.\n4. Bei Stich im Mund-Rachen-Raum: Eis lutschen lassen, kalte Umschläge um Hals.\n5. Bei ernsten Beschwerden Notruf absetzen.</string>
+        
+    <string name="Knochenbruch">Knochenbruch</string>
+    <string name="KnochenbruchContent">Anzeichen: Unnatürliche Lage und Beweglichkeit. Deformierung. Schmerzhafte Bewegung, berührungsempfindlich.\n\n1. Bewegungen vermeiden!\n2. Notruf absetzen.\n3. Bruch ruhig stellen, d.h. Umpolstern mit dichtem Material. Position des gebrochenen Knochens beibehalten.\n4. Bei offenem Bruch die Wunde keimfrei abdecken.</string>
+        
+    <string name="Nasenbluten">Nasenbluten</string>
+    <string name="NasenblutenContent">Kleine Ader in Nasenspitze geplatzt.\n\n1. Blutenden leicht nach vorne gelehnt hinsetzen. Kopf gerade halten.\n2. Nicht flach lagern, da Kopf über Herz-Höhe Bluten verlangsamt.\n3. Kalter Nackenumschlag.\n4. Nasenspitze bis zum Stopp der Blutung zudrücken (für 10 min).\n5. Anschließend Nase in keiner Weise anstrengen (kein Naseschnauben).\n6. Bei ernsten Beschwerden oder wenn Blutung anhält Notruf absetzen.</string>
+        
+    <string name="Notruf">Notruf</string>
+    <string name="NotrufContent">Wählen Sie mit dem nächst-verfügbaren Telefon 112. Immer möglich und kostenlos! Zögern Sie nie, den Notarzt zu rufen!\n\nAm Telefon Folgendes durchgeben: \n- Wo (Unfallort) \n- Was ist passiert \n- Wie viele Verletzte \n- Welche Verletzungen.\nDanach auf Rückfragen warten.</string>
+        
+    <!-- gleich mit "Herzdruckmassage" -->
+    <string name="Reanimation">Reanimation</string>
+    <string name="ReanimationContent">-- Herzdruckmassage --\n1. Betroffenen in Rückenlage. Daneben hinknien.\n2. Brustkorb freimachen.\n3. In der Mitte des Brustkorbs (kurz über Brustbein) einen Handballen platzieren.\n4. Anderen Handballen auf Handrücken der bereits platzierten Hand.\n5. Arme, Ellbogen durchdrücken.\n6. Brustkorb des Betroffenen 5 cm senkrecht eindrücken (aus dem Oberkörper arbeiten) und wieder entlasten.\n7. 30-mal in Folge kurz und kräftig drücken.\n\n-- Beatmung --\n1. Entfernen von Fremdkörpern aus Mund und Rachen. Überstrecken des Kopfes in den Nacken.\n2. Nasenflügel zusammendrücken, damit Nase geschlossen ist.\n3. Tief einatmen und Mund auf Mund des Betroffenen aufsetzen, sodass keine Luft entweichen kann.\n4. Zweimal Mund zu Mund beatmen (langsam, vollständig ausatmen).\n5. Danach wieder Herzdruckmassage.\n\n*Herzdruckmassage + Beatmung fortführen bis Rettungsdienst kommt.</string>
+        
+    <!-- gleich mit "Wirbelsaeule" -->
+    <string name="Rueckenverletzung">Rückenverletzung</string>
+    <string name="RueckenverletzungContent">Schmerzen im Rücken, gefühllose Arme und Beine.\n\n1. Verletzten auf keinen Fall bewegen!!\n2. Kopf so halten, dass Betroffener stabil liegt.\n3. Verletzten nur mittels seitlicher Polsterung stabilisieren.\n4. Betroffenen beruhigen.\n5. Notruf absetzen, Hinweis auf Rückenverletzung.</string>
+        
+    <!-- FIXME Inhalt fehlt -->
+    <string name="Schaedelbasisbruch">Schädelbasisbruch</string>
+    <string name="SchaedelbasisbruchContent">Leichte Blutungen aus Nase, Mund oder Ohr. Oft offene Wunde am Schädel.\n\n1. Atemwege freihalten.\n2. Bei Bewusstsein: Verletzten nach vorne gebeugt hinsetzen. Weitere Bewegungen vermeiden!\n3. Bei Bewusstlosigkeit: Stabile Seitenlage (keinen Druck auf Kopfwunde).\n4. Notruf absetzen.\n5. Kopfverband anlegen.\n6. Bei Atem- und Herz-Kreislauf-Störungen Wiederbelebung einleiten:</string>
+     
+    <!-- FIXME Inhalt fehlt -->   
+    <string name="Schlaganfall">Schlaganfall</string>
+    <string name="SchlaganfallContent">Plötzliches Lähmungs- oder Taubheitsgefühl (Gesicht, Arm, Bein), gestörtes Sprachverständnis, Sehstörung, Bewusstseinstrübung, starke Kopfschmerzen. Probleme beim Atmen und Schlucken, Kontrollverlust über Blase und Darm.\n\n1. Notruf absetzen!\n2. Enge Kleidung lockern, keine Medikamente oder Getränke geben.\n3. Betroffenen bequem hinsetzen oder hinlegen. Beruhigen!\n4. Bewusstsein und Atmung kontrollieren.\n5. Bei Atem- und Herz-Kreislauf-Störungen Wiederbelebung einleiten:</string>
+        
+    <string name="Schlangenbiss">Schlangenbiss</string>
+    <string name="SchlangenbissContent">Punktförmige Wunde in Stecknadelgröße, heftige Schmerzen, Schwellung, blaurote Verfärbung. Kreislaufstörung, Schockgefahr.\n\n1. Verletzten Körperteil ruhigstellen\n2. Kalte Umschläge auf Bissstelle.\n3. Schockbekämpfung.\n4. Notruf absetzen.</string>
+     
+    <!-- FIXME Inhalt fehlt -->   
+    <string name="Schock">Schock</string>
+    <string name="SchockContent">Kreislauf-Störung durch mangelhafte Sauerstoffversorgung im Körper.\nUrsache: Verlust von Flüssigkeit, reduzierte Blutmenge.\nSymptome: Blässe, kalte Haut, kalter Schweiß, Unruhe.\n\n1. Schockursache beseitigen (z.B. Flüssigkeitsverlust stoppen, Wunde abbinden)!\n2. Betroffenen auf Decke legen, Beine hoch lagern. Beruhigen.\n3. Notruf absetzen.\n4. Bei Atem- und Herz-Kreislauf-Störungen Wiederbelebung einleiten:</string>
+        
+    <string name="Sonnenbrand">Sonnenbrand</string>
+    <string name="SonnenbrandContent">1. Betroffenen aus direkter Sonneneinstrahlung nehmen. Weitere Sonne meiden.\n2. Viel Wasser trinken, um Dehydration entgegenzuwirken.\n3. Bei ernsthaftem Sonnenbrand (Blasenbildung, Rötung, Schmerzen) unbedingt Arzt aufsuchen.\n4. Leichte Hautrötungen mit feuchten Umschlägen kühlen. After-Sun-Lotion oder Gel auftragen.</string>
+      
+    <!-- FIXME Inhalt fehlt -->  
+    <string name="Sonnenstich">Sonnenstich</string>
+    <string name="SonnenstichContent">Heißer roter Kopf, kühle Haut, Übelkeit, Kopfschmerz, Schwindelgefühl. Ursache: Reizung der Hirnhaut.\n\n1. Kühlen Ort aufsuchen (Schatten) und Oberkörper des Betroffenen erhöht lagern.\n2. Mit nassen Tüchern Kopf kühlen.\n3. Notruf absetzen, Atmung weiterhin kontrollieren.\n4. Bei Bewusstsein: Ggf. kühles Getränk geben.\n5. Bei Atemstillstand mit Beatmung beginnen:</string>
+            
+    <string name="SOS">SOS</string>
+    <string name="SOSContent">Signal: 3x kurz, 3x lang, 3x kurz.\n\nOptisch (Blitzlicht, Taschenlampe) oder Akustisch (Signalpfeife, Klopfen).</string>
+            
+    <string name="StabileSeitenlage">Stabile Seitenlage</string>
+    <string name="StabileSeitenlageContent">1. Betroffenen in Rückenlage, Beine ausstrecken. Daneben knien.\n2. Nahen Arm im rechten Winkel zum Körper positionieren.\n3. Fernen Arm über Brust des Verletzten ziehen und Handrücken auf Wange platzieren.\n4. Entferntes Knie fassen, zu sich ziehen und auf Boden legen. Bein etwa im rechten Winkel positionieren. Hand des Betroffenen bleibt auf dessen Wange.\n5. Sicherstellen, dass Atemwege frei sind.\n 6. Mund öffnen, Kinn leicht anheben und Kopf so positionieren, dass Erbrochenes ablaufen kann. Atmung kontrollieren.\n7. Bewusstsein und Atmung kontrollieren bis Notarzt eintrifft.</string>
+            
+    <string name="Tierbiss">Tierbiss</string>
+    <string name="TierbissContent">Achtung, hohe Infektionsgefahr. Folgen wie Eiter, Tetanus, Tollwut.\n\n1. Wunde sofort mit heißem Seifenwasser auswaschen.\n2. Anschließend Wunddesinfektion auftragen.\n3. Bei starker Blutung den Oberkörper erhöht lagern.\n4. Keimfreien Verband anlegen.\n5. Krankenhaus aufsuchen oder Notruf absetzen.</string>
+     
+    <!-- gleich mit "Hitzschlag" -->       
+    <string name="Ueberhitzung">Überhitzung</string>
+    <string name="UeberhitzungContent">Durst, Schwäche, Desorientiertheit, Bewusstseinsstörung, starker Schweiß, heiße Haut.\n\n1. Notruf absetzen.\n2. Kühlen, schattigen Platz aufsuchen (Raum mit Klimaanlage sehr geeignet).\n3. Betroffenen hinlegen, Beine hochlagern. Kleidung lockern.\n4. Haut mit Wasser kühlen oder kalte Handtücher auflegen.\n5. Viel Wasser oder Säfte trinken.</string>
+    
+    <!-- gleich mit "Diabetisches Koma" -->        
+    <string name="Ueberzuckerung">Überzuckerung</string>
+    <string name="UeberzuckerungContent">Blutzuckerspiegel zu hoch bzw. Insulinmangel.\nSymptome: Durst, häufiges Wasserlassen, Übelkeit, Erbrechen. Atem riecht nach Obst.\n\n1. Notruf absetzen.\n2. Unterstützung bei der Insulingabe, sofern sichergestellt, dass Diabetiker.\n3. Stabile Seitenlage. (Keine weiteren Möglichkeiten für den Ersthelfer.)\n4. Zustand des Betroffenen kontrollieren bis Notarzt eintrifft.</string>
+    
+    <!-- gleich mit "Verkehrsunfall" -->        
+    <string name="UnfallstelleSichern">Unfallstelle sichern</string>
+    <string name="UnfallstelleSichernContent">1. Eigenen Pkw 50-100 m hinter Unfallstelle halten (falls Autobahn oder Landstraße). Danach Warnblinker anschalten und Warnweste anziehen.\n2. Warndreieck vor Unfallstelle aufstellen. Achtung: Bei einem Unfall in der Kurve, Warndreieck vor der Kurve platzieren!\n3. Andere Personen um Mithilfe auffordern.\n4. Tür des Unfall-Pkws öffnen (falls verklemmt, mittels Wagenheber aufstemmen). Zündung ausschalten.\n5. Unfallopfer bergen: Abschnallen, Sitz nach hinten schieben. Verletzten mit Rettungsgriff aus Wagen befreien.\n6. Notruf absetzen.\n7. Erste-Hilfe-Maßnahmen.</string>
+    
+    <!-- FIXME Inhalt fehlt -->        
+    <string name="Unterkuehlung">Unterkülung</string>
+    <string name="UnterkuehlungContent">Kältezittern, Schläfrigkeit, Erschöpfung, bis hin zur Bewusstlosigkeit. Kalte, blasse Haut. Langsamer Puls, schwacher Herzschlag.\n\n1. Warmen Bereich aufsuchen.\n2. Notruf absetzen.\n3. Kälteeinwirkung beenden. Körpertemperatur erhöhen (Decke und Körper-zu-Körper-Kontakt).\n4. Nasse Kleidung entfernen und trockene warme Kleidung anziehen. In Decken packen. Kopf bedecken.\n5. Heißen Tee, Brühe oder heißes Wasser zu trinken geben. Keinen Alkohol! Betroffenen wachhalten.\n6. Zustand bis zum Eintreffen des Notarztes kontrollieren. Bei Verlust des Bewusstseins Wiederbelebung einleiten:</string>
+            
+    <string name="Unterzuckerung">Unterzuckerung</string>
+    <string name="UnterzuckerungContent">Blutzuckerspiegel unter Mindestwert (aufgrund Überdosierung von Insulin oder ungenügender Nahrungsaufnahme).\nSymptome: Blässe, Nervosität, Hunger, Zittern, Schweiß.\n\n1. Zuerst klären, ob der Betroffene Diabetiker ist (siehe Diabetiker-Ausweis).\n2. Notruf absetzen.\n3. Dem Betroffenen gezuckerte Getränke und Traubenzucker geben (sofern keine Schluckschwierigkeiten).\n4. Bei Bewusstlosigkeit und vorhandener Atmung: Stabile Seitenlage einnehmen und Atmung kontrollieren. Falls Atemstillstand eintritt, den Betroffenen beatmen.\n5. Wenn Atmung vorhanden, dem Bewusstlosen ein Stück Zucker in die Backentasche legen und von außen gegendrücken.</string>
+            
+    <string name="Veraetzung">Verätzung</string>
+    <string name="VeraetzungContent">Zerstörung von Gewebe.\n\n1. Eigenschutz beachten!\n2. Zügig handeln und verätzte Stellen abspülen.\n3. Notruf absetzen.\n4. Bei Verätzung des Verdauungsweges: Vermehrt Flüssigkeit trinken.\n5. Kein Erbrechen auslösen!</string>
+            
+    <string name="VerbrennungLeicht">Verbrennung (leicht)</string>
+    <string name="VerbrennungLeichtContent">Rötung der Haut. Leichte Schwellung. Schmerzen.\n\n1. Betroffene Stelle unter laufendem kalten Wasser kühlen.\n2. Feuchten Verband locker anlegen.</string>
+            
+    <string name="VerbrennungSchwer">Verbrennung (schwer)</string>
+    <string name="VerbrennungSchwerContent">Gefleckte weiße rote Stellen, Blasenbildung. Flüssigkeitsaustritt aus Haut. Tiefe Gewebeschädigung. Starke Schmerzen oder keine Schmerzen (aufgrund verbrannter Nerven).\n\n1. Kleidung soweit wie möglich entfernen.\n2. Mit kaltem Wasser (ca. 15°C) bis zu 10 min kühlen, bis Schmerzlinderung eintritt.\n3. Falls Verbrennung großflächig, nur mit feuchten Tüchern kühlen.\n4. Notruf absetzen.\n5. Nach Kühlung die Wundversorgung durchführen. Sterile, trockene Wundauflage benutzen. Keine Flüssigkeiten aufbringen (keine Cremes, Öle, Salben etc.). Blasen nicht aufstechen.\n6. Atmung und Bewusstsein des Betroffenen kontrollieren, bis Notarzt eintrifft.</string>
+            
+    <string name="Vergiftung">Vergiftung</string>
+    <string name="VergiftungContent">Verwirrung, Halluzination, große Pupillen, Fieber, Krämpfe. Bewusstlosigkeit.\n\n1. Gegenmittel nur verabreichen, wenn medizinisch ausgebildete Person vor Ort.\n2. Keine Getränke geben. Kein Erbrechen auslösen.\n3. Notruf absetzen + auf Vergiftung hinweisen!\n4. Giftreste und Erbrochenes sicherstellen!\n5. Sofern Betroffener bewusstlos ist und atmet: Stabile Seitenlage herstellen. Bewusstsein und Atmung kontrollieren bis Notarzt eintrifft.\n6. Sofern keine Atmung: Maßnahmen zur Wiederbelebung einleiten. Mund vorher von eventuell Erbrochenem befreien.</string>
+    
+    <!-- gleich mit "Unfallstelle sichern" -->            
+    <string name="Verkehrsunfall">Verkehrsunfall</string>
+    <string name="VerkehrsunfallContent">1. Eigenen Pkw 50-100 m hinter Unfallstelle halten (falls Autobahn oder Landstraße). Danach Warnblinker anschalten und Warnweste anziehen.\n2. Warndreieck vor Unfallstelle aufstellen. Achtung: Bei einem Unfall in der Kurve, Warndreieck vor der Kurve platzieren!\n3. Andere Personen um Mithilfe auffordern.\n4. Tür des Unfall-Pkws öffnen (falls verklemmt, mittels Wagenheber aufstemmen). Zündung ausschalten.\n5. Unfallopfer bergen: Abschnallen, Sitz nach hinten schieben. Verletzten mit Rettungsgriff aus Wagen befreien.\n6. Notruf absetzen.\n7. Erste-Hilfe-Maßnahmen.</string>
+    
+    <!-- gleich mit "Ersticken" -->            
+    <string name="Verschlucken">Verschlucken</string>
+    <string name="VerschluckenContent">Unzureichende Sauerstoffversorgung. Luftröhre verschlossen. Gefahr: Atemstillstand.\nSymptome: Pfeifendes Atemgeräusch, Hustenreiz, Atemnot, Hautverfärbung.\n\n1. Sofort handeln! Betroffenen kräftig Husten lassen.\n2. Mit flacher Hand auf Rücken zwischen Schulterblättern kräftig klopfen (Babys dabei auf Unterarm legen, Kopf nach unten halten).\n3. Wenn ohne Erfolg: Hinter Person stellen, Arme um Taille legen, leicht nach vorne beugen.\n4. Hand zur Faust ballen, auf Magen-Höhe des Betroffenen positionieren und mit anderer Hand umfassen.\n5. Beide Hände in Umklammerung mit hartem Stoß in Richtung Magen nach oben/innen ziehen (als ob Sie die Person hochheben wollen).\n6. Bis zu 5-mal wiederholen! Luftwege sollten vom Objekt befreit sein.\n7. Notruf absetzen.\n8. Falls Maßnahme nicht erfolgreich, trotzdem fortsetzen, bis Notarzt eintrifft.</string>
+                
+    <string name="VerstauchungVerrenkung">Verstauchung / Verrenkung</string>
+    <string name="VerstauchungVerrenkungContent">Schmerzen, Schwellung (Bluterguss), Funktionsverlust, Verformung des Gliedes.\n\n1. Ruhigstellung des Gliedes ausschließlich in der für Betroffenen angenehmsten Position.\n2. Kühlen (mit Eisbeutel).\n3. Falls möglich Glied hoch lagern.\n4. Krankenhaus aufsuchen oder Notruf absetzen.</string>
+    
+    <!-- Gleich mit "Herzdruckmassage" -->       
+    <string name="Wiederbelebung">Wiederbelebung</string>
+    <string name="WiederbelebungContent">-- Herzdruckmassage --\n1. Betroffenen in Rückenlage. Daneben hinknien.\n2. Brustkorb freimachen.\n3. In der Mitte des Brustkorbs (kurz über Brustbein) einen Handballen platzieren.\n4. Anderen Handballen auf Handrücken der bereits platzierten Hand.\n5. Arme, Ellbogen durchdrücken.\n6. Brustkorb des Betroffenen 5 cm senkrecht eindrücken (aus dem Oberkörper arbeiten) und wieder entlasten.\n7. 30-mal in Folge kurz und kräftig drücken.\n\n-- Beatmung --\n1. Entfernen von Fremdkörpern aus Mund und Rachen. Überstrecken des Kopfes in den Nacken.\n2. Nasenflügel zusammendrücken, damit Nase geschlossen ist.\n3. Tief einatmen und Mund auf Mund des Betroffenen aufsetzen, sodass keine Luft entweichen kann.\n4. Zweimal Mund zu Mund beatmen (langsam, vollständig ausatmen).\n5. Danach wieder Herzdruckmassage.\n\n*Herzdruckmassage + Beatmung fortführen bis Rettungsdienst kommt.</string>
+                
+    <!-- gleich mit "Rueckenverlaetzung" -->
+    <string name="Wirbelsaeule">Wirbelsäule</string>
+    <string name="WirbelsaeuleContent">Schmerzen im Rücken, gefühllose Arme und Beine.\n\n1. Verletzten auf keinen Fall bewegen!!\n2. Kopf so halten, dass Betroffener stabil liegt.\n3. Verletzten nur mittels seitlicher Polsterung stabilisieren.\n4. Betroffenen beruhigen.\n5. Notruf absetzen, Hinweis auf Rückenverletzung.</string>
+                
+    <string name="dashPlaceholder">--------------</string>
+    <string name="dashPlaceholderContent"></string>
+                    
+    <string name="Notruf112Waehlen">Notruf 112 wählen!</string>
+    <string name="Notruf112WaehlenContent"></string>    
 </resources>

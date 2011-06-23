@@ -34,6 +34,5 @@
             android:textColor="#FF000000"
             android:textSize="16px"
             />   
-             
     </LinearLayout>
 </ScrollView>
