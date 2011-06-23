@@ -4,7 +4,22 @@
     <string name="Informationsleiste">Erste Hilfe 3.0</string>
     
     <string name="HaftungHinweise">Haftung + Hinweise</string>
+    <string name="HaftungHinweiseContent">Haftung + Hinweise -- Software --\nErste Hilfe auf dem Handy\nVersion: j3.0\nRelease: 2008-12-24\nLizenz: Creative Commons BY-NC-ND 3.0\nCopyright: Kai Kajus Noack\n\nErste Hilfe Illustrationen © Med4Teens\n\nDieses Programm soll Informationen zur Ersten Hilfe geben. Es stellt jedoch in keiner Weise einen Ersatz für einen Erste-Hilfe-Kurs dar, sondern dient der Auffrischung des bereits erworbenen Wissens.\n\n-- Haftungsausschluss --\nBitte beachten Sie, dass ich keine Verantwortung für Konsequenzen, die aus der Nutzung entstehen, übernehme.\nJEGLICHE HAFTUNG IST AUSGESCHLOSSEN!\nVERWENDUNG AUF EIGENE GEFAHR!\n\nIn allen Notfällen suchen Sie bitte sofort professionelle Hilfe.\n\n-- Entwicklung des Projekts --\nDas Programm soll vielsprachig werden. Freiwillige Übersetzer gesucht!!\n\nWeitere Informationen erhalten Sie im Internet unter www.firstai.de oder schreiben Sie eine E-Mail an: info@firstai.de"</string>
+    
     <string name="NotrufeWeltweit">- Notrufe weltweit -</string>
+    
     <string name="Allgemeines">Allgemeines</string>
+    <string name="AllgemeinesContent">1. Leisten Sie immer Erste Hilfe. Sie können keine Fehler machen.\n2. Achten Sie immer auf Ihre eigene Sicherheit.\n3. Machen Sie sich ein Bild von der Situation + Sichern Sie die Unfallstelle.\n4. Notruf + Sofortmaßnahmen!\n5. Bei mehreren Verletzten hat der am stärksten bedrohte Vorrang.\n6. Beruhigen Sie den Betroffenen. Und bleiben Sie selbst ruhig!\n7. Lagern Sie den Betroffenen falls möglich bequem. Grundsätzlich nie Alkohol, Nikotin oder Medikamente verabreichen.</string>
+    
     <string name="AllergischeReaktion">Allergische Reaktion</string>
+    <string name="AllergischeReaktionContent">1. Notruf absetzen.\n2. Beruhigen des Betroffenen und bequem hinsetzen.\n3. Allergie-auslösenden Stoff (z. B. Insektenstachel) vorsichtig entfernen.\n4. Betroffene Hautstelle kühlen (feuchter Umschlag, Eis).\n5. Falls Betroffener ein Gegenmittel hat, sollte er dieses nutzen.\n6. Kontrolle des Zustands bis Notarzt eintrifft.\n7. Bei eintretender Bewusstlosigkeit oder Atemnot entsprechende Maßnahmen ergreifen!</string>
+
+    <string name="Amputation">Amputation</string>
+    <string name="AmputationContent">Abgetrennter Körperteil kann wieder angenäht werden. Ziel: Amputat bis zum Eintreffen im Krankenhaus kühlen.\n\n1. Betroffenen beruhigen, hinlegen und zudecken.\n2. Blutung stoppen, siehe \'Blutung (schwer)\' und \'Schock\'.\n3. Abgetrennten Körperteil in ein sauberes trockenes Tuch wickeln und in eine wasserdichte Plastiktüte legen.\n4. Diese Plastiktüte verschließen und in eine zweite Plastiktüte legen, die kühles Wasser/Eis enthält.\n5. Keinen Alkohol, Zigaretten oder Essen geben (falls im Krankenhaus mit Narkose operiert wird).\n6. Das Amputat nicht einfrieren (nur kühlen).\n7. Notarzt rufen oder selbst zum Krankenhaus fahren.</string>
+
+    <string name="AsthmaAtemnot">Asthma / Atemnot</string>
+    <string name="AsthmaAtemnotContent">Starke Atemnot. Pfeifendes Atemgeräusch. Angstgefühle.\n\n1. Beruhigen des Betroffenen. (Bleiben Sie selbst ruhig!)\n2. Kleidung lockern.\n3. Betroffenen bequem leicht nach vorne gebeugt hinsetzen und auffordern, langsam und tief ein- und auszuatmen.\n4. Falls der Betroffene einen Inhalator besitzt, sollte dieser benutzt werden (helfen Sie dabei). Nach 5-10 min sollte sich Wirkung zeigen.\n5. Sofern keine Besserung eintritt: Inhalator jede 5 min anwenden, solange bis Notarzt eintrifft.\n6. Notruf absetzen.\n7. Falls es zum Atemstillstand kommt, mit der Beatmung beginnen.</string>
+
+    <string name="Atemstillstand">Atemstillstand</string>
+    <string name="AtemstillstandContent">Keine Geräusche oder Atembewegungen, auffallende Hautverfärbung.\n\n1. Notruf absetzen.\n2. Betroffenen auf Rücken legen.\n3. Entfernen von Fremdkörpern aus Mund und Rachen. Überstrecken des Kopfes in den Nacken.\n4. Nasenflügel zusammendrücken, damit Nase geschlossen ist.\n5. Tief einatmen und Mund auf Mund des Betroffenen aufsetzen, sodass keine Luft entweichen kann.\n6. Langsam und vollständig ausatmen.\n7. Falls ohne Erfolg: Atemspende fortsetzen bis Notarzt eintrifft.</string>
 </resources>

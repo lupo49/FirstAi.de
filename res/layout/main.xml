@@ -16,21 +16,20 @@
 		<TextView  
 			android:id="@+id/Informationsleiste"
 		    android:layout_width="fill_parent"
-		    android:layout_height="50dip" 
+		    android:layout_height="45dip" 
 		    android:gravity="center"
 		    android:padding="5px"
 		    android:text="@string/Informationsleiste"
 		    android:textStyle="bold"
 		    android:textColor="#FF000000"
 		    android:background="#ffffffff"
+		    android:textSize="25px"
 		    />
 		    
 		<TextView
 		    style="@style/MenuUnselected"
 			android:id="@+id/HaftungHinweise"
 			android:text="@string/HaftungHinweise"
-			android:layout_width="wrap_content"
-            android:layout_height="wrap_content" 
 			/>
 		    
 		<TextView
@@ -48,6 +47,21 @@
             style="@style/MenuUnselected"
             android:id="@+id/AllergischeReaktion"
             android:text="@string/AllergischeReaktion"
+        />
+        <TextView
+            style="@style/MenuUnselected"
+            android:id="@+id/Amputation"
+            android:text="@string/Amputation"
+        />
+        <TextView
+            style="@style/MenuUnselected"
+            android:id="@+id/AsthmaAtemnot"
+            android:text="@string/AsthmaAtemnot"
+        />
+        <TextView
+            style="@style/MenuUnselected"
+            android:id="@+id/Atemstillstand"
+            android:text="@string/Atemstillstand"
         />
 	</LinearLayout>
 </ScrollView>

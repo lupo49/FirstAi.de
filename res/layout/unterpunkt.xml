@@ -17,13 +17,14 @@
         <TextView  
             android:id="@+id/Informationsleiste"
             android:layout_width="fill_parent"
-            android:layout_height="50dip" 
+            android:layout_height="45dip" 
             android:gravity="center"
             android:padding="5px"
             android:text="@string/Informationsleiste"
             android:textStyle="bold"
             android:textColor="#FF000000"
             android:background="#ffffffff"
+            android:textSize="25px"
             />
        
        <TextView
@@ -31,7 +32,7 @@
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:textColor="#FF000000"
-            android:background="#ffffffff"
+            android:textSize="16px"
             />   
              
     </LinearLayout>
