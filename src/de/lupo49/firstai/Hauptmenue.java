@@ -5,7 +5,6 @@ import java.util.Vector;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -14,14 +13,15 @@ import android.widget.TextView;
 public class Hauptmenue extends Activity {
     
 	private Intent menuepunktAusgewaehlt;
+	private Intent notrufeWeltweit;
 	private TextView menuepunkt;
+	private Vector<Integer> menuepunkte = new Vector<Integer>();
 	
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+        setContentView(R.layout.hauptmenue);
         
-        Vector<Integer> menuepunkte = new Vector<Integer>();
         menuepunkte.add(R.id.HaftungHinweise);
         menuepunkte.add(R.id.NotrufeWeltweit);
         menuepunkte.add(R.id.Allgemeines);
@@ -86,6 +86,7 @@ public class Hauptmenue extends Activity {
         menuepunkte.add(R.id.Notruf112Waehlen);
 
         menuepunktAusgewaehlt = new Intent(this, Unterpunkt.class);
+        notrufeWeltweit = new Intent(this, NotrufeWeltweit.class);
         
         // Alle Menuepunkte eigene OnClickListener zuordnen, um die Detailseite aufzurufen
         for(int i = 0; i < menuepunkte.size(); i++) {
@@ -93,9 +94,12 @@ public class Hauptmenue extends Activity {
         	menuepunkt.setOnClickListener(new OnClickListener() {
     			@Override
     			public void onClick(View v) {
-    				menuepunktAusgewaehlt.putExtra("quelle", v.getId());
-    				Log.i("Hauptmenue", String.valueOf(v.getId()));
-    				startActivity(menuepunktAusgewaehlt);
+    				if(v.getId() == R.id.NotrufeWeltweit) {
+    	        		startActivity(notrufeWeltweit);
+    	        	} else {
+    	        		menuepunktAusgewaehlt.putExtra("quelle", v.getId());
+    	        		startActivity(menuepunktAusgewaehlt);
+    	        	}
     			}
     		});
         }
@@ -103,14 +107,12 @@ public class Hauptmenue extends Activity {
     
     @Override
     public boolean onCreateOptionsMenu(android.view.Menu menu) {
-    
     	menu.add(0, 1, android.view.Menu.NONE, "Test");
     	return super.onCreateOptionsMenu(menu);
     }
     
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-    	
     	switch(item.getItemId()) {
     	case 1:
     		// FIXME

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="fill_parent" 
+    android:layout_width="fill_parent"
+    android:fillViewport="true"
+    android:background="@drawable/bground" 
+    >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/mpLinearLayout2"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        >
+        
+        <TextView  
+            android:id="@+id/InformationsleisteNotrufeWeltweit"
+            android:layout_width="fill_parent"
+            android:layout_height="45dip" 
+            android:gravity="center"
+            android:padding="5px"
+            android:text="@string/Informationsleiste"
+            android:textStyle="bold"
+            android:textColor="#FF000000"
+            android:background="#ffffffff"
+            android:textSize="25px"
+            />
+       
+       <TextView
+            style="@style/MenuUnselected"
+            android:id="@+id/tvNotrufeWeltweitAfrika"
+            android:text="@string/NotrufeWeltweitAfrika"
+            />
+       <TextView
+            style="@style/MenuUnselected"
+            android:id="@+id/tvNotrufeWeltweitAsien"
+            android:text="@string/NotrufeWeltweitAsien"
+            />
+       <TextView
+            style="@style/MenuUnselected"
+            android:id="@+id/tvNotrufeWeltweitEuropa"
+            android:text="@string/NotrufeWeltweitEuropa"
+            />
+       <TextView
+            style="@style/MenuUnselected"
+            android:id="@+id/tvNotrufeWeltweitNZAmerika"
+            android:text="@string/NotrufeWeltweitNZAmerika"
+            />
+       <TextView
+            style="@style/MenuUnselected"
+            android:id="@+id/tvNotrufeWeltweitOzeanien"
+            android:text="@string/NotrufeWeltweitOzeanien"
+            />                                    
+       <TextView
+            style="@style/MenuUnselected"
+            android:id="@+id/tvNotrufeWeltweitSuedamerika"
+            android:text="@string/NotrufeWeltweitSuedamerika"
+            />
+    </LinearLayout>
+</ScrollView>

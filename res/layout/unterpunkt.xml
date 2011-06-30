@@ -4,13 +4,14 @@
     android:orientation="vertical"
     android:layout_height="fill_parent" 
     android:layout_width="fill_parent"
+    android:fillViewport="true"
+    android:background="@drawable/bground" 
     >
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/mpLinearLayout"
         android:layout_height="fill_parent"
         android:orientation="vertical"
-        android:background="@drawable/bground" 
         android:layout_width="fill_parent"
         >
         
